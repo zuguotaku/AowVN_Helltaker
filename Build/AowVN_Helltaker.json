@@ -1,0 +1,16 @@
+{
+"companyName": "vanripper",
+"productName": "Helltaker",
+"productVersion": "ex1.1",
+"dataUrl": "AowVN_Helltaker.data.unityweb",
+"wasmCodeUrl": "AowVN_Helltaker.wasm.code.unityweb",
+"wasmFrameworkUrl": "AowVN_Helltaker.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "AowVN_Helltaker.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
