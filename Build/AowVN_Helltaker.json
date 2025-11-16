@@ -1,7 +1,7 @@
 {
 "companyName": "vanripper",
 "productName": "Helltaker",
-"productVersion": "ex1.1",
+"productVersion": "1.0",
 "dataUrl": "AowVN_Helltaker.data.unityweb",
 "wasmCodeUrl": "AowVN_Helltaker.wasm.code.unityweb",
 "wasmFrameworkUrl": "AowVN_Helltaker.wasm.framework.unityweb",
